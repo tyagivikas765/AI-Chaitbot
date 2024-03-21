@@ -42,7 +42,7 @@ function Registration() {
                     </div>
 
                     <div className="form-control">
-                        <button type={"submit"} style={{ backgroundColor: "#a1eafb" }}>Submit</button>
+                        <button type={"submit"} style={{ backgroundColor: "#a1eafb" }}>Click Me</button>
                     </div>
 
 
